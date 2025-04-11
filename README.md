@@ -1,7 +1,8 @@
-SwiftUI Tutorial - Landmark
+SwiftUI Tutorial - Landmarks
 =================================
 
-SwiftUI is a modern way to declare user interfaces for any Apple platform. Create beautiful, dynamic apps faster than ever before.  
+SwiftUI is a modern way to declare user interfaces for any Apple platform.  
+Create beautiful, dynamic apps faster than ever before.  
 This tutorial guides you through building Landmarks — an app for discovering and sharing the places you love.  
 
 
