@@ -21,6 +21,13 @@ struct LandmarkRow: View {
     }
 }
 
-#Preview {
-    LandmarkRow(landmark: landmarks[0])
+#Preview("Turtle Rock") {
+    Group {
+        LandmarkRow(landmark: landmarks[0])
+        LandmarkRow(landmark: landmarks[1])
+    }
+}
+
+#Preview("Salmon") {
+    LandmarkRow(landmark: landmarks[1])
 }
