@@ -2,7 +2,7 @@
 //  RotatedBadgeSymbol.swift
 //  Landmarks
 //
-//  Created by 유만재 on 2025/04/14.
+//  Created by gandalgom on 2025/04/14.
 //
 
 import SwiftUI
