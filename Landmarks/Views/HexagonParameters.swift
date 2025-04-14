@@ -16,7 +16,7 @@ struct HexagonParameters {
     
     static let adjustment: CGFloat = 0.085
 
-    static let segment = [
+    static let segments = [
         Segment(
             line:    CGPoint(x: 0.60, y: 0.05),
             curve:   CGPoint(x: 0.40, y: 0.05),
