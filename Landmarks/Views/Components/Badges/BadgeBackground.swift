@@ -21,11 +21,11 @@ struct BadgeBackground: View {
                 var width: CGFloat = min(
                     geometry.size.width, geometry.size.height
                 )
+                let height = width
+                
                 let xScale: CGFloat = 0.832
                 let xOffset = (width * (1.0 - xScale)) / 2.0
                 width *= xScale
-                
-                let height = width
                 
                 path.move(
                     to: CGPoint(
